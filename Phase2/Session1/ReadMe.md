@@ -13,5 +13,4 @@
 6. Data sparsity of interrelation between words minimal so no simple Dense gives good results
 
    #### Training & Validation Results
-
-   ![MoreSamples](C:\Users\600013785\Desktop\MoreSamples.JPG)
+   ![Results](https://github.com/nambiar/MachineLearning/blob/master/Phase2/Session1/MoreSamples.JPG)
